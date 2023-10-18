@@ -5,6 +5,7 @@ please install conda env with python>3.6
 
 ## Install the dependent library
 pip install -r requirements_pip.txt
+
 conda install --yes --file requirements_conda.txt 
 
 ## Predict 
