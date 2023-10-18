@@ -8,7 +8,7 @@ pip install -r requirements_pip.txt
 
 conda install --yes --file requirements_conda.txt 
 
-## Predict 
+## Prediction 
 ### For PYQT
  please install the dependent library and run python Hemo_QT.py and then past peptide sequences with fasta format, and the predicted results will save to predict_results.csv file    
 ### For the command
